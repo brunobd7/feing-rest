@@ -11,7 +11,7 @@ public class PostDto {
 
     private Integer id;
     private  Integer userId;
-    private String tittle;
+    private String title;
     private String body;
 
 }
