@@ -1,4 +1,4 @@
-package com.bruno.feingrest.dto;
+package com.bruno.feignrest.dto;
 
 import lombok.*;
 

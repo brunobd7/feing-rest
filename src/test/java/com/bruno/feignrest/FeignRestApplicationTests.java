@@ -1,10 +1,10 @@
-package com.bruno.feingrest;
+package com.bruno.feignrest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FeingRestApplicationTests {
+class FeignRestApplicationTests {
 
     @Test
     void contextLoads() {
